@@ -1,0 +1,10 @@
+မိတ်ဆက်
+Perlဆိုတာ text processing မှာ အဓိက သုံးဖို့ ဖန်တီးခဲ့တဲ့ Programming Language တစ်ခု ဖြစ်ပါတယ်။ သူ့ကို ဖန်တီးခဲ့သူကတော့  Larry Wall ဖြစ်ပါတယ်။
+Perl Programming Language ဟာဆိုရင် Features ကလည်း စုံလင်လှပါတယ်။ 
+ဥပမာ ပြောရမယ်ဆိုရင် 
+
+-Perl က Operating System (e.g.Window, Linux, Mac OS) မျိုးစုံ မှာ run လို့ အဆင်​ပြေပါတယ်။
+-OOP ပုံစံ ဖြစ်ဖြစ် Procedural ပုံစံ အနေနဲ့ ဖြစ်ဖြစ် သုံးလို့ရပါတယ်။
+-HTML, XML အစရှိတယ့် Mark up languages အစုံနဲ့ Processတွေ လုပ်လို့ရတယ်။
+-Perl က သူ့ရဲ့ text processingနဲ့ rapid development မြန်လွန်းတာကြောင့် web programming တစ်ခုအနေနဲ့ အရမ်းကို နာမည်ကြီးပါတယ်။
+-Ecommerce Transactionsတွေ Encrypt လုပ်ထားတဲ့ Web dataတွေကို process လုပ်ဖို့ အတွက် အရမ်းအရမ်းကို အသုံးဝင်ပါတယ်။
